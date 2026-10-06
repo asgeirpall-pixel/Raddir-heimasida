@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 88" fill="none">
+  <title>Raddir — samtal og hljóð</title>
+  <path d="M49 33h34a17 17 0 0 1 17 17v5a17 17 0 0 1-17 17H72L58 82V72h-9a17 17 0 0 1-17-17v-5a17 17 0 0 1 17-17Z" stroke="#f5f0e5" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M29 8h32a19 19 0 0 1 19 19v7a19 19 0 0 1-19 19H42L25 65V53a19 19 0 0 1-15-19v-7A19 19 0 0 1 29 8Z" fill="#302630" stroke="#e8b394" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M30 28v6m10-12v18m10-22v26m10-18v10" stroke="#e8b394" stroke-width="5" stroke-linecap="round"/>
+</svg>
